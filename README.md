@@ -2,43 +2,74 @@
 
 A personal collection of favorite recipes, culinary experiments, and family dishes. From perfect mashed potatoes to authentic Nanjing specialties, these recipes have been tested and refined through actual cooking experiences.
 
-## Recipe Categories
+## Complete Recipe Index with Dates
 
 ### 🥞 [Breakfast](recipes/breakfast/)
-- **Pancakes & Waffles**: Classic buttermilk, lemon ricotta, overnight yeasted waffles
-- **Egg Dishes**: Shakshuka, fluffy scrambled eggs, breakfast burrito bowls
-- **Make-Ahead**: Overnight oats collection, banana oat pancakes
+- **Banana Oat Pancakes** - Simple healthy pancakes
+- **Belgian Waffles** - Classic crispy waffles
+- **Lemon Ricotta Pancakes** - Light and fluffy with citrus
+- **Overnight Oats** - Three variations for meal prep
+- **Overnight Yeasted Waffles** - Complex flavor from slow fermentation
+- **Pancakes Basic** - Classic buttermilk recipe
+- **Pumpkin Pancakes** *(September 28, 2024)* - Using pancake mix and canned pumpkin
+- **Shakshuka** - Middle Eastern eggs in spiced tomato sauce
+- **Yogurt Pancakes** - Tangy and tender
 
 ### 🍖 [Mains](recipes/mains/)
-- **Seafood**: Multiple salmon preparations, sea bass variations, shrimp dishes
-- **Steaks**: Reverse sear, coffee-rubbed, miso butter techniques
-- **Nanjing Specialties**: Authentic regional dishes with mellow spices
-- **Mexican**: Spicy chicken and vegetarian options with heat variations
-- **Family Dinners**: Roast chicken, one-pot pastas, stir-fries
+- **Blue Crab Cooking Guide** *(March 30, 2025)* - Comprehensive guide for Maryland blues
+- **Chinese Spare Ribs** *(January 11, 2024)* - Boil and broil method
+- **Chinese Tuna Fried Rice** *(January 23, 2024)* - Quick weeknight dinner
+- **Coffee Rubbed Steak** - Bold flavors on beef
+- **Honey Garlic Salmon** - Sweet and savory glaze
+- **Lemon Herb Chicken** - Bright and fresh
+- **Lobster Fried Rice** *(December 31, 2024)* - Luxurious fried rice with wok hei
+- **Mexican Chicken Tinga** - Smoky shredded chicken
+- **Miso Sea Bass** *(January 20, 2024)* - Elegant Japanese-inspired dish
+- **Mustard Salmon Lemon** - Dijon and herb crusted
+- **Nanjing Chicken Stir-Fry** - Family's mellow spice blend
+- **One-Pot Pasta Primavera** - Spring vegetables and pasta
+- **Reverse Sear Ribeye** - Perfect edge-to-edge doneness
+- **Roast Chicken Basic** - Simple perfection
+- **Salmon Teriyaki Bowl** - Complete meal in a bowl
+- **Shrimp Garlic Butter** - Quick and elegant
+- **Soy Ginger Salmon** - Asian-inspired glazed fish
+- **Turkey Burger Marinade** *(May 11, 2025)* - Wine-marinated juicy burgers
+- **Tuna Patties** *(January 13, 2024)* - Crispy canned tuna cakes
 
 ### 🥔 [Sides](recipes/sides/)
-- **Potato Mastery**: Yukon gold mashed, air fryer fritters
-- **Nanjing Sides**: Pickled vegetables, lotus root salad, crystal dumplings
-- **Vegetables**: Simple preparations highlighting natural flavors
+- **Air Fryer Potato Fritters** - Crispy mashed potato cakes
+- **Crystal Shrimp Dumplings** - Translucent Har Gow
+- **Honey Roasted Carrots** - Allie's favorite
+- **Lotus Root Salad** - Crunchy Nanjing specialty
+- **Pickled Daikon** - Quick Asian pickle
+- **Red Russet Mashed Potatoes** *(December 24, 2023)* - Perfect blend for texture
+- **Smooth Mashed Potatoes** *(April 25, 2025)* - Multiple variations including ultra-smooth
+- **Tuna Salad** *(January 13, 2024)* - Classic sandwich filling
+- **Yukon Gold Mashed** - Buttery and smooth
 
 ### 🍰 [Desserts](recipes/desserts/)
-- **Quick Treats**: Emergency chocolate mug cake, chia parfaits
-- **Baked Goods**: Not-too-sweet almond cookies
-- **Healthy Options**: Chia seed variations
+- **Almond Cookies** - Not too sweet Chinese style
+- **Chia Pudding Parfait** - Healthy layered dessert
+- **Emergency Chocolate Mug Cake** - 90-second dessert
+- **Maple Candy** *(January 27, 2024; Updated February 18, 2024)* - Temperature tips for texture
+- **Pistachio Fudge** *(February 3, 2024)* - White chocolate with salted nuts
 
 ### 🍲 [Soups](recipes/soups/)
-- **Nanjing Classics**: Duck blood vermicelli soup
-- **Vegetable**: Carrot ginger (Allie's favorite)
+- **Carrot Ginger Soup** - Smooth and warming
+- **Duck Blood Vermicelli** - Authentic Nanjing street food
 
 ### 🧈 [Basics](recipes/basics/)
-- **Fundamentals**: Perfect rice, no-knead bread
-- **Guides**: Steak temperature reference
-- **Healthy Staples**: Chia preparations, energy balls
+- **Basic Chia Pudding** - Healthy breakfast base
+- **Energy Balls** - No-bake protein snacks
+- **No-Knead Bread** - Foolproof artisan loaf
+- **Perfect Rice** - Stovetop method
+- **Steak Temperature Guide** - Visual and temperature reference
 
 ### ❤️ [Family Favorites](recipes/family-favorites/)
-- **Nanjing Heritage**: Dishes reflecting family's preference for mellow regional spices
-- **Allie's Picks**: Carrot-based dishes she loves
-- **Celebration Foods**: Special occasion preparations
+- **Allie's Carrot Stars** - Fun shaped vegetables
+- **Lu's Comfort Noodles** - Family tradition
+- **Nanjing Celebration Duck** - Special occasion centerpiece
+- **Peter's Game Day Sliders** - Crowd pleasers
 
 ## Cooking Techniques Guide
 
@@ -154,6 +185,27 @@ Each recipe includes:
 - Make-ahead and storage notes
 - Serving suggestions and variations
 
+## Recipe Timeline
+
+### 2023
+- **December 24**: Red & Russet Mashed Potatoes - Holiday classic
+
+### 2024
+- **January 11**: Chinese Spare Ribs - Boil & broil technique
+- **January 13**: Tuna Patties & Tuna Salad - Pantry staples
+- **January 20**: Miso Sea Bass - Restaurant-quality at home
+- **January 23**: Chinese Tuna Fried Rice - Quick weeknight meal
+- **January 27**: Maple Candy - First version with brown sugar
+- **February 3**: Pistachio Fudge - Two methods developed
+- **February 18**: Maple Candy Update - Temperature control insights
+- **September 28**: Pumpkin Pancakes - Fall favorite
+- **December 31**: Lobster Fried Rice - New Year's luxury
+
+### 2025
+- **March 30**: Blue Crab Cooking Guide - Comprehensive seafood guide
+- **April 25**: Smooth Mashed Potatoes - Multiple variations perfected
+- **May 11**: Turkey Burger Marinade - Wine-marinated innovation
+
 ## Contributing & Evolution
 
 This is a living collection that grows through:
@@ -162,6 +214,7 @@ This is a living collection that grows through:
 - Seasonal discoveries
 - New techniques learned
 - Cultural exploration
+- Recipe conversations and memories
 
 ---
 
