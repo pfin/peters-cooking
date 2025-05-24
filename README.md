@@ -42,65 +42,43 @@ A personal collection of favorite recipes, culinary experiments, and family dish
 
 ## Cooking Techniques Guide
 
-### Simple Techniques
+For an extensive guide with detailed instructions, troubleshooting, and applications, see our **[Complete Cooking Techniques Guide](COOKING_TECHNIQUES.md)**.
+
+### Quick Reference - Simple Techniques
 
 #### The Perfect Sear
 - **Dry Surface**: Pat proteins completely dry
 - **Hot Pan**: Oil should shimmer but not smoke
 - **Don't Move**: Let crust develop before flipping
-- **Examples**: Pan-seared steak, crispy skin fish
+- **[Full Details →](COOKING_TECHNIQUES.md#the-perfect-sear)**
 
 #### Blanch and Shock
 - **Purpose**: Preserve color and texture
 - **Method**: Boiling water → ice bath immediately
 - **Uses**: Green vegetables, lotus root, preparing vegetables for stir-fry
+- **[Full Details →](COOKING_TECHNIQUES.md#blanching-and-shocking)**
 
-#### Proper Scrambling
-- **Low Heat**: Never rush eggs
-- **Constant Movement**: Gentle folding, not vigorous stirring
-- **Remove Early**: They continue cooking off heat
-
-#### Building Flavor Layers
-- **Toast Spices**: 30 seconds in dry pan awakens oils
-- **Bloom in Fat**: Garlic and ginger in oil release more flavor
-- **Deglaze**: Use liquid to capture fond from pan
-
-### Complex Techniques
+### Quick Reference - Complex Techniques
 
 #### Reverse Searing
 - **Science**: Low oven first → perfect edge-to-edge doneness
 - **Finish**: High-heat sear for crust
 - **Best For**: Thick steaks, roasts
-- **Key**: Use thermometer for precision
-
-#### Velvet Proteins (Chinese Technique)
-- **Marinade**: Cornstarch + egg white + wine
-- **Result**: Silky texture in stir-fries
-- **Secret**: Brief water blanch before final cooking
-
-#### Mole Making
-- **Toast Everything**: Chiles, spices, seeds separately
-- **Layer Flavors**: Each ingredient at optimal time
-- **Patience**: Long simmering melds complex flavors
-- **Strain**: Smooth sauce requires fine mesh
+- **[Full Details →](COOKING_TECHNIQUES.md#reverse-searing)**
 
 #### Nanjing-Style Braising
 - **Gentle Heat**: Never boil, barely simmer
 - **Time**: Low and slow for tender results
 - **Balance**: Sweet-savory without overwhelming
-- **Examples**: Lion's head meatballs, braised fish
+- **[Full Details →](COOKING_TECHNIQUES.md#regional-specialty-techniques)**
 
-#### Dumpling Pleating
-- **Wrapper Edge**: Keep moist for sealing
-- **Technique**: Push and fold, 10-12 pleats
-- **Practice**: Muscle memory develops quickly
-- **Crystal Dough**: Requires hot water for translucency
-
-#### Wok Hei (Breath of the Wok)
-- **Extreme Heat**: Home stove workarounds exist
-- **Dry Wok**: Moisture is the enemy
-- **Quick Movement**: Ingredients in constant motion
-- **Small Batches**: Don't overcrowd
+View the complete guide for:
+- Heat and temperature control mastery
+- Step-by-step technique breakdowns
+- Troubleshooting common problems
+- Equipment-specific methods
+- Regional specialty techniques
+- Practice progression recommendations
 
 ## Featured Recipe Collections
 
