@@ -17,28 +17,40 @@ A personal collection of favorite recipes, culinary experiments, and family dish
 
 ### 🍖 [Mains](recipes/mains/)
 - **Blue Crab Cooking Guide** *(March 30, 2025)* - Comprehensive guide for Maryland blues
+- **Cast Iron Pizza** *(March 9, 2025)* - Crispy homemade pan pizza
 - **Chinese Spare Ribs** *(January 11, 2024)* - Boil and broil method
 - **Chinese Tuna Fried Rice** *(January 23, 2024)* - Quick weeknight dinner
+- **Classic Porterhouse** *(December 24, 2024)* - Reverse sear perfection
 - **Coffee Rubbed Steak** - Bold flavors on beef
+- **Grilling Filets** *(March 12, 2025)* - Medium-rare precision
+- **Ham Broccoli Quiche** *(August 30, 2024; February 23, 2025)* - Versatile egg dish
 - **Honey Garlic Salmon** - Sweet and savory glaze
 - **Lemon Herb Chicken** - Bright and fresh
 - **Lobster Fried Rice** *(December 31, 2024)* - Luxurious fried rice with wok hei
 - **Mexican Chicken Tinga** - Smoky shredded chicken
 - **Miso Sea Bass** *(January 20, 2024)* - Elegant Japanese-inspired dish
+- **Mushroom Risotto** *(January 27, 2024)* - Creamy Italian classic
 - **Mustard Salmon Lemon** - Dijon and herb crusted
+- **Mustard Salmon Updated** *(January 17, 2025)* - With sour cream topping
 - **Nanjing Chicken Stir-Fry** - Family's mellow spice blend
+- **Nanjing Style Ribs** *(August 18, 2024)* - Authentic regional marinade
 - **One-Pot Pasta Primavera** - Spring vegetables and pasta
+- **Oven Dry Rubbed Ribs** *(March 17, 2024; July 27, 2024)* - Low and slow
+- **Pineapple Glazed Ham** *(December 21, 2024; April 19, 2025)* - Holiday centerpiece
 - **Reverse Sear Ribeye** - Perfect edge-to-edge doneness
 - **Roast Chicken Basic** - Simple perfection
 - **Salmon Teriyaki Bowl** - Complete meal in a bowl
 - **Shrimp Garlic Butter** - Quick and elegant
 - **Soy Ginger Salmon** - Asian-inspired glazed fish
+- **Steamed Lobsters** *(December 8, 2024)* - With Asian aromatics
+- **Tomahawk Steak** *(August 3, 2024)* - Impressive presentation
 - **Turkey Burger Marinade** *(May 11, 2025)* - Wine-marinated juicy burgers
 - **Tuna Patties** *(January 13, 2024)* - Crispy canned tuna cakes
 
 ### 🥔 [Sides](recipes/sides/)
 - **Air Fryer Potato Fritters** - Crispy mashed potato cakes
 - **Crystal Shrimp Dumplings** - Translucent Har Gow
+- **Garlic Butter String Beans** *(January 13, 2025; March 24, 2025)* - Crisp-tender perfection
 - **Honey Roasted Carrots** - Allie's favorite
 - **Lotus Root Salad** - Crunchy Nanjing specialty
 - **Pickled Daikon** - Quick Asian pickle
@@ -49,10 +61,16 @@ A personal collection of favorite recipes, culinary experiments, and family dish
 
 ### 🍰 [Desserts](recipes/desserts/)
 - **Almond Cookies** - Not too sweet Chinese style
+- **Baby Blueberry Jam** *(December 1, 2024)* - No sugar added for toddlers
 - **Chia Pudding Parfait** - Healthy layered dessert
+- **Chocolate Chip Cookies** *(November 21, 2024)* - Soft and chewy perfection
 - **Emergency Chocolate Mug Cake** - 90-second dessert
+- **Lemon Cake** *(October 20, 2024; March 15, 2025)* - Moist with fresh citrus
 - **Maple Candy** *(January 27, 2024; Updated February 18, 2024)* - Temperature tips for texture
 - **Pistachio Fudge** *(February 3, 2024)* - White chocolate with salted nuts
+- **Pumpkin Pancakes** *(September 28, 2024; Updated December 28, 2024)* - With Greek yogurt option
+- **Ube & Taro Chiffon Cake** *(February 25, 2024)* - Purple yam layers
+- **Vanilla Fudge** *(February 3, 2024; Updated December 23, 2024)* - Soft and firm versions
 
 ### 🍲 [Soups](recipes/soups/)
 - **Carrot Ginger Soup** - Smooth and warming
@@ -195,14 +213,33 @@ Each recipe includes:
 - **January 13**: Tuna Patties & Tuna Salad - Pantry staples
 - **January 20**: Miso Sea Bass - Restaurant-quality at home
 - **January 23**: Chinese Tuna Fried Rice - Quick weeknight meal
-- **January 27**: Maple Candy - First version with brown sugar
-- **February 3**: Pistachio Fudge - Two methods developed
+- **January 27**: Maple Candy & Mushroom Risotto - Sweet and savory classics
+- **February 3**: Pistachio Fudge & Vanilla Fudge - Confectionery perfection
 - **February 18**: Maple Candy Update - Temperature control insights
+- **February 25**: Ube & Taro Chiffon Cake - Layered purple yam delight
+- **March 17**: Oven Dry Rubbed Ribs - St. Louis style
+- **July 27**: Enhanced Baby Back Ribs - Nanjing flavors
+- **August 3**: Tomahawk Steak - Impressive presentation
+- **August 18**: Nanjing Style Ribs - Authentic regional marinade
+- **August 30**: Ham Broccoli Quiche - Breakfast or dinner
 - **September 28**: Pumpkin Pancakes - Fall favorite
+- **October 20**: Lemon Cake - Enhanced with fresh citrus
+- **November 21**: Soft Chocolate Chip Cookies - Perfect texture
+- **December 1**: Baby Blueberry Jam - No sugar added
+- **December 8**: Steamed Lobsters - Asian aromatics
+- **December 21**: Pineapple Glazed Ham - Holiday centerpiece
+- **December 24**: Classic Porterhouse - Reverse sear perfection
 - **December 31**: Lobster Fried Rice - New Year's luxury
 
 ### 2025
+- **January 13**: Garlic Butter String Beans - Simple elegance
+- **January 17**: Mustard Baked Salmon Update - With sour cream
+- **February 23**: Ham Broccoli Quiche Update - Refined technique
+- **March 9**: Cast Iron Pan Pizza - Crispy homemade
+- **March 12**: Grilling Medium-Rare Filets - Temperature precision
+- **March 15**: Enhanced Lemon Cake - Olive oil variation
 - **March 30**: Blue Crab Cooking Guide - Comprehensive seafood guide
+- **April 19**: Pineapple Glazed Ham Update - Refined glaze
 - **April 25**: Smooth Mashed Potatoes - Multiple variations perfected
 - **May 11**: Turkey Burger Marinade - Wine-marinated innovation
 
